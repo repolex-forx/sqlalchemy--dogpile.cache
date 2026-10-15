@@ -1,0 +1,11 @@
+{
+  "org": "sqlalchemy",
+  "repo": "dogpile.cache",
+  "versions": [
+    {
+      "commit": "185db4fb6cd844cddac17cc3dcbbd51a876891da",
+      "tag": "",
+      "parsed_at": "2026-10-15T15:54:52.274523+00:00"
+    }
+  ]
+}
