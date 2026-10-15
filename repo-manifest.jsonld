@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sqlalchemy/dogpile.cache/commit/185db4fb6cd844cddac17cc3dcbbd51a876891da",
       "git:hexsha": "185db4fb6cd844cddac17cc3dcbbd51a876891da",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T15:54:52.273857+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sqlalchemy/dogpile.cache/commit/301a70bb2ec8bd4503805033f005cd6c363a619a",
